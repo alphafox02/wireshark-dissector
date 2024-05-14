@@ -2,6 +2,8 @@
 -- Copyright 2021, Gabriel Cox
 -- License: apache-2.0
 
+bit32 = require("bit32")
+
 debugMode = 0
 showTOALag = 1
 
