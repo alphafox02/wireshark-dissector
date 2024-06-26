@@ -2,7 +2,7 @@
 
 [Wireshark](https://www.wireshark.org) dissector plugin to parse and analyze captured Open Drone ID packets
 
-It currently supports Wi-Fi Beacon, Wi-Fi NAN and Bluetooth 4 and Bluetooth 5. This guide assumes you have already flashed your SonOff Sniffle compatible donge with the latest Sniffle release
+It currently supports Wi-Fi Beacon, Wi-Fi NAN and Bluetooth 4 and Bluetooth 5. This guide assumes you have already flashed your Sonoff Sniffle compatible donge with the latest Sniffle release
 
 ### Guide
 
